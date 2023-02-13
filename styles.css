@@ -136,6 +136,12 @@ header {
     text-align: left;
 }
 
+.learning {
+    color: #232323;
+    font-weight: 700;
+    text-decoration: none;
+}
+
 .hashtag-group {
     text-align: center;
     display: flex;
