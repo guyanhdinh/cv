@@ -220,6 +220,12 @@ header {
     text-decoration: none;
 }
 
+.button:hover {
+    background-color: #232323;
+    color: #fff;
+    box-shadow: 2px 2px 0 2px #21db00;
+}
+
 .submit-button {
     margin-top: 5px;
 }
